@@ -6,7 +6,7 @@
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JSkahl&layout=compact&langs_count=7&theme=dark&hide=html,css,scss"/>
 </div>
 
-<div height="2%"></div>
+<div height="104px"></div>
 
 <p align="center"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
