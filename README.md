@@ -13,6 +13,9 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,django,vue,react" />
+    <img src="https://skillicons.dev/icons?i=py,js" />
+  </a>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django,vue,react" />
   </a>
 </p>
