@@ -1,5 +1,8 @@
-<h2 align="center">Always trying to improve</h2>
+<h2 align="center">Sempre buscando o caminho mais óptimo</h2>
 
+- Olá! Eu me chamo José.
+- Estou atualmente estudando Java e frameworks frontend.
+- Busco desafios no dia-a-dia.
 
 <!-- <div align="center">
   <a href="https://github.com/JSkahl">
