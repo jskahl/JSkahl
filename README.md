@@ -2,7 +2,7 @@
 
 - Olá! Eu me chamo José.
 - Estou atualmente estudando Java e frameworks frontend.
-- Busco desafios no dia-a-dia.
+- Sempre buscando novos desafios.
 
 <!-- <div align="center">
   <a href="https://github.com/JSkahl">
