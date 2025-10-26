@@ -1,1 +1,0 @@
-# Buscando o caminho mais óptimo
