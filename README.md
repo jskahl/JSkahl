@@ -5,6 +5,6 @@ Olá! Estou sempre à procura de novos caminhos para otimizar o meu trabalho e e
 Atualmente estou cursando Sistemas de Informação. Paralelamente, e didaticamente, estudo estrutura de dados e algoritmos, explorando novos tópicos tanto teóricos quanto práticos para abrir portas novas em conhecimentos profundos da área de desenvolvimento de software.
 
 Tenho interesse em temas como:
-- Automação e personalização de ambientes linux
-- Personalização do editor de texto Vim
-- Ferramentas open-source e produtividade para desenvolvedores
+- Automação e personalização de ambientes com foco em desenvolvimento de software
+- Ferramentas CLI, tanto para produtividade quanto por curiosidade
+- Ferramentas open-source
