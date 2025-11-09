@@ -1,8 +1,8 @@
 # Sempre tentando melhorar
 
-Olá! Estou sempre à procura de novos caminhos para otimizar o meu trabalho e estudo, entrando em diversos nichos na tecnologia consequentemente aprofundando meus conhecimentos na área de desenvolvimento de software. Isso reflete diariamente na minha atitude como desenvolvedor.
+Olá! Estou sempre à procura de novos caminhos para otimizar o meu trabalho e estudo, entrando em diversos nichos na tecnologia, consequentemente aprofundando meus conhecimentos na área de desenvolvimento de software. Isso reflete diariamente na minha atitude como desenvolvedor.
 
-Atualmente estou cursando Sistemas de Informação. Paralelamente, e didaticamente, estudo estrutura de dados e algoritmos, explorando novos tópicos tanto teóricos quanto práticos para abrir portas novas em conhecimentos profundos da área de desenvolvimento de software.
+Vindo de um curso técnico de Informática para a Internet integrado ao ensino médio, estou cursando Sistemas de Informação. Paralelamente, e didaticamente, estudo assuntos diversos na área de Engenharia de Software para expandir meus conhecimentos na procura de me tornar um desenvolvedor prático e competente no rumo da produção de software. Busco aprender, em maioria, assuntos relacionados à Desenvolvimento Web.
 
 Tenho interesse em temas como:
 - Automação e personalização de ambientes com foco em desenvolvimento de software
